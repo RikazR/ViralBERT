@@ -1,0 +1,10 @@
+certifi==2021.5.30
+chardet==4.0.0
+idna==2.10
+python-dateutil==2.8.2
+PyYAML==6.0
+requests==2.25.1
+searchtweets-v2==1.1.1
+six==1.16.0
+tweet-parser==1.13.2
+urllib3==1.26.5
