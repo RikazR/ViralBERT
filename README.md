@@ -55,3 +55,6 @@ Follow the instructions within the models.ipynb notebook to load the dataset and
 
 Choose a model under a heading to train and test on the data.
 
+## Contact
+TBA
+
